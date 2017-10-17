@@ -83,3 +83,5 @@ What does the stroke aesthetic do? What shapes does it work with? (Hint: use ?ge
 
 What happens if you map an aesthetic to something other than a variable name, like aes(colour = displ < 5)?
 =======
+
+>>>>>>> 1884b60a8853e6d6a46714eca77dc0aeb667e39b
